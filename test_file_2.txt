@@ -1,0 +1,143 @@
+Test Case 1
+balance = 320000; annualInterestRate = 0.2
+
+Your output:
+Lowest Payment: 29640
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 29157.09 +/- 0.2, got 29640. ***
+Correct output:
+Lowest Payment: 29157.09
+
+Test Case 2
+balance = 999999; annualInterestRate = 0.18
+
+Your output:
+Lowest Payment: 91680
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 90325.02 +/- 0.2, got 91680. ***
+Correct output:
+Lowest Payment: 90325.02
+
+Randomized Test Case 1
+balance = 54785; annualInterestRate = 0.21
+
+Your output:
+Lowest Payment: 5100
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 5013.5 +/- 0.2, got 5100. ***
+Correct output:
+Lowest Payment: 5013.5
+
+Randomized Test Case 2
+balance = 379394; annualInterestRate = 0.21
+
+Your output:
+Lowest Payment: 35330
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 34719.22 +/- 0.2, got 35330. ***
+Correct output:
+Lowest Payment: 34719.22
+
+Randomized Test Case 3
+balance = 278118; annualInterestRate = 0.18
+
+Your output:
+Lowest Payment: 25500
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 25121.04 +/- 0.2, got 25500. ***
+Correct output:
+Lowest Payment: 25121.04
+
+Randomized Test Case 4
+balance = 45682; annualInterestRate = 0.21
+
+Your output:
+Lowest Payment: 4250
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 4180.47 +/- 0.2, got 4250. ***
+Correct output:
+Lowest Payment: 4180.47
+
+Randomized Test Case 5
+balance = 86225; annualInterestRate = 0.22
+
+Your output:
+Lowest Payment: 8070
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 7924.89 +/- 0.2, got 8070. ***
+Correct output:
+Lowest Payment: 7924.89
+
+Randomized Test Case 6
+balance = 420542; annualInterestRate = 0.18
+
+Your output:
+Lowest Payment: 38560
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 37985.51 +/- 0.2, got 38560. ***
+Correct output:
+Lowest Payment: 37985.51
+
+Randomized Test Case 7
+balance = 77659; annualInterestRate = 0.18
+
+Your output:
+Lowest Payment: 7120
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 7014.56 +/- 0.2, got 7120. ***
+Correct output:
+Lowest Payment: 7014.56
+
+Randomized Test Case 8
+balance = 384090; annualInterestRate = 0.2
+
+Your output:
+Lowest Payment: 35580
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 34996.71 +/- 0.2, got 35580. ***
+Correct output:
+Lowest Payment: 34996.71
+
+Randomized Test Case 9
+balance = 69178; annualInterestRate = 0.18
+
+Your output:
+Lowest Payment: 6340
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 6248.51 +/- 0.2, got 6340. ***
+Correct output:
+Lowest Payment: 6248.51
+
+Randomized Test Case 10
+balance = 269239; annualInterestRate = 0.21
+
+Your output:
+Lowest Payment: 25070
+
+
+*** ERROR: Your numerical answer was not within the error margin of our answer.
+First error found: expected 24638.68 +/- 0.2, got 25070. ***
+Correct output:
+Lowest Payment: 24638.68

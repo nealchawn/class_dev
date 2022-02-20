@@ -1,0 +1,123 @@
+INCORRECTHide outputHide output
+Test Case 1
+balance = 3329; annualInterestRate = 0.2
+
+Output:
+Lowest Payment: 310
+
+Test Case 2
+balance = 4773; annualInterestRate = 0.2
+
+Output:
+Lowest Payment: 440
+
+Test Case 3
+balance = 3926; annualInterestRate = 0.2
+
+Output:
+Lowest Payment: 360
+
+Randomized Test Case 1
+balance = 97; annualInterestRate = 0.25
+
+Output:
+Lowest Payment: 10
+
+Randomized Test Case 2
+balance = 960; annualInterestRate = 0.25
+
+Output:
+Lowest Payment: 90
+
+Randomized Test Case 3
+balance = 727; annualInterestRate = 0.25
+
+Output:
+Lowest Payment: 70
+
+Randomized Test Case 4
+balance = 882; annualInterestRate = 0.25
+
+Your output:
+Lowest Payment: 80
+
+
+*** ERROR: Expected Lowest Payment: 90
+
+, but got Lowest Payment: 80
+
+ ***
+Correct output:
+Lowest Payment: 90
+
+Randomized Test Case 5
+balance = 4989; annualInterestRate = 0.04
+
+Your output:
+Lowest Payment: 420
+
+
+*** ERROR: Expected Lowest Payment: 430
+
+, but got Lowest Payment: 420
+
+ ***
+Correct output:
+Lowest Payment: 430
+
+Randomized Test Case 6
+balance = 4412; annualInterestRate = 0.18
+
+Output:
+Lowest Payment: 400
+
+Randomized Test Case 7
+balance = 4126; annualInterestRate = 0.2
+
+Output:
+Lowest Payment: 380
+
+Randomized Test Case 8
+balance = 3818; annualInterestRate = 0.04
+
+Output:
+Lowest Payment: 330
+
+Randomized Test Case 9
+balance = 4094; annualInterestRate = 0.15
+
+Output:
+Lowest Payment: 370
+
+Randomized Test Case 10
+balance = 3543; annualInterestRate = 0.18
+
+Your output:
+Lowest Payment: 320
+
+
+*** ERROR: Expected Lowest Payment: 330
+
+, but got Lowest Payment: 320
+
+ ***
+Correct output:
+Lowest Payment: 330
+
+Randomized Test Case 11
+balance = 4477; annualInterestRate = 0.04
+
+Output:
+Lowest Payment: 380
+
+Randomized Test Case 12
+balance = 3253; annualInterestRate = 0.2
+
+Output:
+Lowest Payment: 300
+
+
+balance = 3908; annualInterestRate = 0.04
+
+Output:
+Lowest Payment: 320
